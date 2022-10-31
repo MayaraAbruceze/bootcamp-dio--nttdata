@@ -1,0 +1,49 @@
+INTRODUÇÃO À PROGRAMAÇÃO E PENSAMENTO COMPUTACIONAL
+
+Pensamento computacional: Processo de pensamento com foco em soluções de problemas, através de passos computacionais ou algoritmos que podem ser implementados no computador.
+Não se restringe à área computacional.
+
+Pilares do pensamento computacional:
+1. Decomposição- divide os problemas mais complexos em problemas menores;
+2. Reconhecimento de padrões - identifica similaridades e tendências dentro de um contexto;
+3. Abstração - Extrapola o conceito de problemas para uma forma generalista;
+4. Design de algoritmos - Automatiza, define o passo a passo para a solução do problema.
+
+Competências do pensamento computacional:
+1. Pensamento sistemático;
+2. Colaboração dentro da equipe;
+3. Criatividade e design;
+4. Facilitador.
+
+DESENVOLVIMENTO DE PROGRAMAS
+
+1. Análise: Estudo e definição de dados de entrada e saída;
+2. Algoritmo: Descrever o problema por meio de ferramentas narrativas, fluxograma ou pseudocódigo (Portugol);
+3. Codificação: Linguagem de programação.
+
+TÉCNICAS DE LÓGICA DE PROGRAMAÇÃO
+
+1. Técnica Linear: Execução sequenciada, recursos limitados, 1 dimensão;
+2. Técnica Estrutural: Não é linear, possui escolhas;
+3. Técnica Modular: Controlada por um conjunto de regras. Partes independentes.
+
+FUNDAMENTOS DE ALGORITMOS
+
+Tipologia e variáveis: Numéricos (inteiros/reais); Caracteres (tudo que não representa números) e Lógicos (verdadeiro/falso).
+
+Variável = mutável (pode ser modificada);
+Constante = inalterável (não pode ser modificada).
+
+Instruções Primitivas = "Linguagem de palavras-chave de uma determinada linguagem de programação que tem por finalidade comandar um computador que irá tratar os dados." 
+
+Estruturas Condicionais e Operadores = Há uma condição para executar determinada instrução.
+1. Simples: condição - operação;
+2. Composta: condição - operação - exceção;
+3. Encadeada: se - senão (sucessão de condições).
+
+Estruturas de Repetição = Usadas quando preciso que uma parte do código seja exacutada mais de uma vez.
+Vantagens - Redução de linhas, compreensão facilitada e redução de erros.
+1. Enquanto... Faça (While) - Teste lógico no início e número de repetições indefinidas;
+2. Repita... Até (Do/While) - Teste lógico no final e número de repetições indefinidas;
+3. Para... De... Até... Faça (For) - Teste lógico no início e número de repetições definida.
+
